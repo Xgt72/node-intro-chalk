@@ -1,0 +1,24 @@
+{
+    "name": "intro-chalk",
+    "version": "1.0.0",
+    "description": "First use of a package with Node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Xgt72/node-intro-chalk.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Xgt72/node-intro-chalk/issues"
+    },
+    "homepage": "https://github.com/Xgt72/node-intro-chalk#readme",
+    "dependencies": {
+        "chalk": "^5.2.0"
+    },
+    "type": "module"
+}
